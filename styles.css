@@ -25,25 +25,13 @@
   background-color:pink;
   padding: 2rem 2rem;
 }
-@media (max-width: 600px) {
-  .navbar-nav {
-    visibility: visible;
-  }
-  .nav-item {
-    visibility: visible;
-    border-color: white;
-  }
-  .navbar-toggler {
-    visibility: visible;
-  }
-}
 .sub-head{
   font-size: 2rem;
   color:#660000;
   padding-bottom:2rem;
   text-align: center;
   }
- #sq{
+ .sq{
   padding:2rem 2rem;  
   display: inline-block;
   margin: 4rem 2rem 4rem 2rem;
@@ -56,3 +44,16 @@
   color: : #ffc7c7;}
  #last{background-color:orange;}
  footer{font-size: .8vw;}
+@media (max-width: 600px) {
+  .navbar-nav {
+    visibility: visible;
+  }
+  .nav-item {
+    visibility: visible;
+    border-color: white;
+  }
+  .navbar-toggler {
+    visibility: visible;
+  }
+}
+
