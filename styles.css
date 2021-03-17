@@ -27,11 +27,12 @@
 }
 .row{
   text-align:center;}
+h1{text-align:center;}
 .sub-head{
   font-size: 2rem;
   color:#660000;
   padding-bottom:2rem;
-  text-align: center;
+  text-align:center;
   }
  .sq{
   padding:2rem 2rem;  
