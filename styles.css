@@ -26,8 +26,11 @@
   padding: 2rem 2rem;
 }
 .row{
-  text-align:center;}
-.main-head{text-align:center;}
+  text-align:center;
+}
+.main-head{
+  text-align:center;
+}
 .sub-head{
   font-size: 2rem;
   color:#660000;
