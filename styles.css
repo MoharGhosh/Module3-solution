@@ -25,9 +25,6 @@
   background-color:pink;
   padding: 2rem 2rem;
 }
-.row {
-  text-align: center;
-}
 @media (max-width: 600px) {
   .navbar-nav {
     visibility: visible;
@@ -54,8 +51,8 @@
  .st{
   text-align:left;
  }
- .first{background-color:#b266ff;}
- .sec{background-color:#4c9900;
+ #first{background-color:#b266ff;}
+ #sec{background-color:#4c9900;
   color: : #ffc7c7;}
- .last{background-color:orange;}
+ #last{background-color:orange;}
  footer{font-size: .8vw;}
