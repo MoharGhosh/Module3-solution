@@ -25,6 +25,8 @@
   background-color:pink;
   padding: 2rem 2rem;
 }
+.row{
+  text-align:center;}
 .sub-head{
   font-size: 2rem;
   color:#660000;
